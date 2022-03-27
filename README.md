@@ -9,3 +9,4 @@ There are two columns.
 Label column is prediction col which has 2 categories A. Good - which means the urls is not containing malicious stuff and this site is not a Phishing Site. B. Bad - which means the urls contains malicious stuffs and this site isa Phishing Site.
 
 There is no missing value in the dataset.
+by using machine learning phishing attack can be identified and thus it is useful in the field of cyber attack
